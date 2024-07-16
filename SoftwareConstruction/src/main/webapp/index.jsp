@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Registration Form Akar Azeez Saeed</title>
+  <title>Registration Form Akar Azeez </title>
 </head>
 <body>
   <h1>Registration</h1>
